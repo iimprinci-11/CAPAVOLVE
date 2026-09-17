@@ -131,7 +131,7 @@ function Skills() {
                             <Link
                                 key={skill.path}
                                 to={skill.path}
-                                className="group"
+                        className="group"
                             >
                                 <SkillCategory
                                     title={skill.title}
